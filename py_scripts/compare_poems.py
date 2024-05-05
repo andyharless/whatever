@@ -16,8 +16,11 @@ replaces = {    # Punctuation &c that is allowed to differ
         ',': '',
         ';': '',
         '’': "'",
+        '“': '"',
+        '”': '"',
         '—': ' ',
-        ':': ''
+        ':': '',
+        "'d": 'ed'
         }
         
 
